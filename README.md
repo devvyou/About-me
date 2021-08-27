@@ -34,6 +34,9 @@ https://www.fiverr.com/antoniosalzano
 Instagram:
 @devvyou
 
+email:
+devvyou@gmail.com
+
       
 
 

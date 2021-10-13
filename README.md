@@ -7,34 +7,38 @@ I'm relatively new in the world of web programming, but I am sure that I can hel
 <h2>What technologies i know?</h2>
 - For Websites i use: <br>
 
-        - HTML5
-        - CSS3 
-        - POSTCSS ( Convert modern CSS into something most browser can understand )
-        - UNCSS ( UnCSS is a tool that removes unused CSS from your stylesheets )
-        - PARCEL BUNDLER ( Blazing fast, zero configuration web application bundler )
+        - HTML5;
+        - CSS3;
+        - POSTCSS ( Convert modern CSS into something most browser can understand );
+        - UNCSS ( UnCSS is a tool that removes unused CSS from your stylesheets );
+        - PARCEL BUNDLER ( Blazing fast, zero configuration web application bundler ).
 
 - For Web Applications: <br>
 
-         - NODE JS
-         - EXPRESS JS
-         - PASSPORT JS and many other libraries
-         - NGINX
+         - NODE JS ( open-source runtime system for server-side programming );
+         - EXPRESS JS ( back end web application framework for Node. js );
+         - EJS ( template engine )
+         - PASSPORT JS and many other libraries.
 
 An Example of website that i developed(only Code and some UI):
 - https://www.afragolavolley.it/ (An italian volleyball team)
 
-😃 If you are searching for a Web Developer who can develop your website, your project of dream. You can find me on Fiverr.<br>
+Example of side-project web-application with auth integrated:
+- https://mediumcproject.herokuapp.com 
+
+😃 If you are searching for a Web Developer who can develop your website, your project of dream. <br>
+🔥 You can get in touch with me with my email: devvyou@gmail.com.<br>
 
 <hr>
 Socials:
 
-Fiverr link:
-https://www.fiverr.com/antoniosalzano
+website:<br>
+devvyou.herokuapp.com
 
-Instagram:
+Instagram:<br>
 @devvyou
 
-email:
+email:<br>
 devvyou@gmail.com
 
       
